@@ -11,3 +11,11 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+.main-container {
+  width: 700px;
+  margin: 40px auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
